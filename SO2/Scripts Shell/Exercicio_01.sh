@@ -1,5 +1,17 @@
-clear 
-
+:'
+1- Limpe a tela;
+2- Solicite ao usuário para digitar o lado de um quadrado;
+3- Calcule o perímetro do quadrado e exiba "Perimetro = nnn";
+4- Verificar se o perímetro é maior que 100;
+5- Se for, dar a mensagem "Perimetro nnn excede o limite". 
+Caso contrário, dar a mensagem "Perimetro nnn na faixa normal".
+6- Solicite um <ENTER> para continuar;
+7- Limpe a tela;
+8- Solicite ao usuário o nome de um diretório (com o caminho junto);
+9- Verificar se o diretório existe;
+10- Se existir, listá-lo no formato longo paginando a saída;
+11- Se não existir, dar uma mensagem ao usuário dizendo que não existe.
+'
 echo "Informe o lado de um quadrado: "
 
 read ladoquadrado
