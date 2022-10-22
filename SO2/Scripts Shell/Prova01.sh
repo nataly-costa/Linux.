@@ -49,7 +49,6 @@ do
 	echo "ALUNO: Gustavo Rocha Maia"
 	
 	echo "Selecione uma opção:"
-	Selecione uma opção:
 	echo "1 = Calcular o perimetro de um retangulo;"
 	echo "2 = Listar um diretório;"
 	echo "3 = Criar um diretório;"
