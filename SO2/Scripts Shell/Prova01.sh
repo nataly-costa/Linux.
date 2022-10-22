@@ -58,7 +58,7 @@ do
 	read operacao
 	
 	case $operacao in
-		1) echo "Digite a altura de retangulo"
+		1) echo "Digite a altura de um retangulo"
 		   read altura
 		   
 		   echo "Digite a largura de um retangulo"
