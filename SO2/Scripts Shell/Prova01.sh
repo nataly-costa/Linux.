@@ -65,7 +65,7 @@ do
 		   read largura
 		   
 		   somaretangulo=`expr $altura + $largura`
-		   retangulo=`expr 2 \* somaretangulo`
+		   retangulo=`expr 2 \* $somaretangulo`
 			
 		   if test $retangulo -lt 70
 		   then
