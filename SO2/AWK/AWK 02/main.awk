@@ -1,4 +1,4 @@
-# Execício 02 - AWK;
+# Execício 02 - AWK.
 
 BEGIN {
 	print "INICIANDO O EXERCICIO DE AWK 02"
