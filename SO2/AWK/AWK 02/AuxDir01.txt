@@ -1,4 +1,5 @@
-Arquivo auxiliar para o exercício 02 AWK.
+-- Arquivo auxiliar para o exercício 02 AWK;
+-- Os dados foram retirados do diretório /etc. 
 
 ca-certificates.conf 5613
 lynx.cfg 162312
