@@ -1,3 +1,5 @@
+Arquivo auxiliar para o exercício 01 AWK.
+
 Augusto Cesar;3001;6
 Ronaldo Hamburg;3002;7
 Gabriela Silva;3002;3
