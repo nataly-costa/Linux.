@@ -1,0 +1,7 @@
+Augusto Cesar;3001;6
+Ronaldo Hamburg;3002;7
+Gabriela Silva;3002;3
+Flavio Costa;3001;5
+Maria Tereza;3002;8
+Joao de Souza;3001;1
+Ana Maria Luz;3003;7
