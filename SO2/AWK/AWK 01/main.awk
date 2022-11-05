@@ -1,3 +1,5 @@
+# Exercício 01 - AWK.
+
 BEGIN {
 	print "INICIO DO PROGRAMA"
 }
@@ -7,3 +9,5 @@ $2 = 3001 {
 END {
 	print "TOTAL ALUNOS = ", NR
 }
+
+# awk -F";" -f main.awk AuxFaltas.txt
