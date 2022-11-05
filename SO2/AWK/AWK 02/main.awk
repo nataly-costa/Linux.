@@ -10,4 +10,4 @@ END {
 	print "TOTAL DE ARQUIVOS = ", NR
 }
 
-# awk -F" " -f main.awk dir01.txt
+# awk -F" " -f main.awk AuxDir01.txt
