@@ -42,7 +42,7 @@ END{
 
 	print "O TAMANHO MEDIO DOS ARQUIVOS EH ", media
 	
-	PRINT "O NOME DO MAIOR ARQUIVO EH ", nomearquivo, "E TAMANHO DO MAIOR ARQUIVO EH", maior
+	print "O NOME DO MAIOR ARQUIVO EH ", nomearquivo, "E TAMANHO DO MAIOR ARQUIVO EH", maior
 }
 
 # awk -F" " -f awk131 dir001
