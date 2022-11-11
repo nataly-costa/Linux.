@@ -44,3 +44,5 @@ END{
 	
 	PRINT "O NOME DO MAIOR ARQUIVO EH ", nomearquivo, "E TAMANHO DO MAIOR ARQUIVO EH", maior
 }
+
+# awk -F" " -f awk131 dir001
