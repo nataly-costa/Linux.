@@ -1,4 +1,4 @@
-:' Criar um arquivo texto (manualmente) que terá o nome de "dir001" que vai ser a saída do
+# Criar um arquivo texto (manualmente) que terá o nome de "dir001" que vai ser a saída do
 comando ls -l de um diretório qualquer. Este será o arquivo a ser lido pelo AWK.
 
 Criar um programa AWK chamado "AWK131" que:
@@ -13,7 +13,7 @@ Criar um programa AWK chamado "AWK131" que:
 	-	Quantidade total em bytes do espaço ocupado pelos arquivos aceitos.
 	-	Tamanho médio dos arquivos aceitos.
 	-	O nome e o tamanho do maior arquivo aceito.
-'
+#
 
 BEGIN{
 	print "PROCESSANDO DIRETÓRIOS."
