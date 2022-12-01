@@ -48,7 +48,7 @@ BEGIN{
 }
 
 END{
-	print "\nO numero total de registros aceitos eh: ", numtotalreg
+	print "\nO numero total de registros lidos eh: ", numtotalreg
 	
 	print "\nO numero total de registros ignorados eh: ", numtotalreg - numtotalaceitados
 	
